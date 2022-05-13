@@ -31,4 +31,4 @@ We have done three steps:
 - Delivery Performance (with neural network)
 - How to improve delivery performance? (hypotesis testing)
 
-In the repository, you can find all the codes and also a report with all the tasks explained at a high level 
+In the repository, you can find all the codes and also a report with all the tasks explained at a high level.

@@ -34,5 +34,7 @@ We have done three steps:
 - Time Delivery Prediction (with XGBoost and Random Forest)
 - Delivery Performance (with neural network)
 - How to improve delivery performance? (hypotesis testing)
+![immagine](https://user-images.githubusercontent.com/93279084/168280347-8c3740e1-727a-4790-9c83-959dd05913b1.png)
+
 
 In the repository, you can find all the codes and also a report with all the tasks explained at a high level.

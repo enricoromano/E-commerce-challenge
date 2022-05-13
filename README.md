@@ -16,6 +16,8 @@ RFM analysis is a marketing technique used to quantitatively rank and group cust
  We calculated the recency (days), the frequency and the amount spent on the store.
 Divide the scores into Quintiles (1,2,3,4).
 Attribute each customer a score by a combination of the quantiles
+![immagine](https://user-images.githubusercontent.com/93279084/168280219-c1501206-e62b-4459-9bd6-d0e61952f936.png)
+
 
 # 2. Recommendation Systems
 Collaborative filtering is commonly used for recommendation system. These techniques aim to fill in the missing entries of a user-item association matrix.
@@ -24,6 +26,8 @@ We computed two different approach:
 - Model based 
 - Item based;
 Afterwards, we evaluated each model and performed the predictions
+![immagine](![immagine](https://user-images.githubusercontent.com/93279084/168280059-28dcc174-64ee-4961-92f2-a3cc017eb33d.png)
+
 
 # 3. Time Delivery Predictions
 We have done three steps:

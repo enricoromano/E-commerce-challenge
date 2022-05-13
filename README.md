@@ -38,3 +38,9 @@ We have done three steps:
 
 
 In the repository, you can find all the codes and also a report with all the tasks explained at a high level.
+
+## Authors
+- Enrico Romano
+- Simone Lu
+- Lorenzo Antolini
+- Luca Schisano

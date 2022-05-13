@@ -8,4 +8,27 @@ There were three main tasks:
 3. Shipping time analysis to predict an accurate date of delivery and to reduce delays, in order to improve the quality of the shipping service (Delivery Time Prediction)
 ![immagine](https://user-images.githubusercontent.com/93279084/168277006-0e5a8c8a-c139-416b-949c-c55900fb089d.png)
 
-You can find the notebooks for each task in the repository. 
+
+
+# 1. RFM Analysis 
+RFM analysis is a marketing technique used to quantitatively rank and group customers based on the recency, frequency and monetary total of their recent transactions to identify the best customers and perform targeted marketing campaigns.
+
+ We calculated the recency (days), the frequency and the amount spent on the store.
+Divide the scores into Quintiles (1,2,3,4).
+Attribute each customer a score by a combination of the quantiles
+
+# 2. Recommendation Systems
+Collaborative filtering is commonly used for recommendation system. These techniques aim to fill in the missing entries of a user-item association matrix.
+It is based on the idea that the best recommendations come from people who have similar tastes. 
+We computed two different approach:
+- Model based 
+- Item based;
+Afterwards, we evaluated each model and performed the predictions
+
+# 3. Time Delivery Predictions
+We have done three steps:
+- Time Delivery Prediction (with XGBoost and Random Forest)
+- Delivery Performance (with neural network)
+- How to improve delivery performance? (hypotesis testing)
+
+In the repository, you can find all the codes and also a report with all the tasks explained at a high level 

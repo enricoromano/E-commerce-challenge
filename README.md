@@ -25,7 +25,11 @@ It is based on the idea that the best recommendations come from people who have 
 We computed two different approach:
 - Model based 
 - Item based;
+
+
 Afterwards, we evaluated each model and performed the predictions
+
+
 ![immagine](![immagine](https://user-images.githubusercontent.com/93279084/168280059-28dcc174-64ee-4961-92f2-a3cc017eb33d.png)
 
 
@@ -34,6 +38,8 @@ We have done three steps:
 - Time Delivery Prediction (with XGBoost and Random Forest)
 - Delivery Performance (with neural network)
 - How to improve delivery performance? (hypotesis testing)
+
+
 ![immagine](https://user-images.githubusercontent.com/93279084/168280347-8c3740e1-727a-4790-9c83-959dd05913b1.png)
 
 

@@ -30,7 +30,7 @@ We computed two different approach:
 Afterwards, we evaluated each model and performed the predictions
 
 
-![immagine](![immagine](https://user-images.githubusercontent.com/93279084/168280059-28dcc174-64ee-4961-92f2-a3cc017eb33d.png)
+![immagine](https://user-images.githubusercontent.com/93279084/168280059-28dcc174-64ee-4961-92f2-a3cc017eb33d.png)
 
 
 # 3. Time Delivery Predictions
